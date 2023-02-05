@@ -1,0 +1,14 @@
+.headline
+{
+   background-color: #21565C;
+    height: 100px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:50px;
+}
+.subheading
+{
+    background-color: #091819;
+    height: 75px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:50px;
+}
