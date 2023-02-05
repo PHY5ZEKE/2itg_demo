@@ -12,3 +12,17 @@
     font-family: "Copperplate", fantasy, San-serif;
     font-size:50px;
 }
+.push
+{
+    background-color: #CE5100;
+    height: 1500px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:30px;
+}
+.pull
+{
+    background-color: #e91c4c;
+    height: 1500px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:30px;
+}
