@@ -1,0 +1,35 @@
+.headline
+{
+   background-color: #21565C;
+    height: 100px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:50px;
+}
+.subheading
+{
+    background-color: #091819;
+    height: 75px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:50px;
+}
+.push
+{
+    background-color: #CE5100;
+    height: 1500px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:30px;
+}
+.pull
+{
+    background-color: #e91c4c;
+    height: 1500px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:30px;
+}
+.leg
+{
+    background-color: #9F5F91;
+    height: 1500px;
+    font-family: "Copperplate", fantasy, San-serif;
+    font-size:30px;
+}
